@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Hrutuja Borhade 👋
 
-<!--
-**hrutujaborhade-alt/hrutujaborhade-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS Cloud & DevOps Engineer with 3+ years of experience in cloud infrastructure, 
+CI/CD automation, and Infrastructure as Code.
 
-Here are some ideas to get you started:
+☁️ **Cloud Platforms:** AWS (EC2, S3, VPC, IAM, Route 53, ELB, Auto Scaling, EKS)
+⚙️ **Infrastructure as Code:** Terraform
+🔁 **CI/CD:** Jenkins, GitHub Actions
+📦 **Containerization:** Docker, Kubernetes (EKS)
+📊 **Monitoring:** CloudWatch, Grafana, Prometheus, Splunk
+💻 **Scripting & Version Control:** Shell Scripting, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner
+🔗 [LinkedIn] www.linkedin.com/in/hrutuja-borhade-686b8118b
+
+---
+
