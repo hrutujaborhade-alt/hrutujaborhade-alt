@@ -11,7 +11,7 @@ CI/CD automation, and Infrastructure as Code.
 💻 **Scripting & Version Control:** Shell Scripting, Git
 
 📜 AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner
-🔗 [LinkedIn] www.linkedin.com/in/hrutuja-borhade-686b8118b
+  🔗 [LinkedIn] www.linkedin.com/in/hrutuja-borhade-686b8118b
 
 ---
 
