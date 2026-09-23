@@ -1,6 +1,6 @@
 ### Hi, I'm Hrutuja Borhade 👋
 
-AWS Cloud & DevOps Engineer with 3+ years of experience in cloud infrastructure, 
+AWS Cloud & DevOps Engineer with 3.5+ years of experience in cloud infrastructure, 
 CI/CD automation, and Infrastructure as Code.
 
 ☁️ **Cloud Platforms:** AWS (EC2, S3, VPC, IAM, Route 53, ELB, Auto Scaling, EKS)
