@@ -13,6 +13,6 @@ CI/CD automation, and Infrastructure as Code.
 📜 AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner
   🔗 [LinkedIn] www.linkedin.com/in/hrutuja-borhade-686b8118b
 
-![Resume](Hrutuja_Borhade_AWS_Devops_Engineer.pdf)
+![Resume](Hrutuja_Borhade_AWS_Devops_Engineer_Resume.pdf)
 ---
 
